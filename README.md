@@ -15,6 +15,11 @@ where the Presentation Layer    -> this presents the UI layer of the app (screen
                                    that is the UseContact Model
           Infrastructure Layer  -> this represents the layer which the app communicates with a remote server 
 	                           or local storage in our case its an in memory storage
+
+Assumptions made
+
+i) details page is also the edit page for a contact
+i) when adding a contact optional to upload a image (so this is not included in the build)
 ---
 
 ## Getting Started 🚀
